@@ -8,6 +8,7 @@ O projeto utiliza um framework gráfico construído sobre **Pygame**, **PyOpenGL
 
 ## Integrante
 - **Pedro Henrique Ramos de Carvalho**
+- **Raphael Antonio Ferreira**
 
 ---
 
