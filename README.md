@@ -6,7 +6,7 @@ O projeto utiliza um framework gráfico construído sobre **Pygame**, **PyOpenGL
 
 ---
 
-## Integrantes da Dupla
+## Integrante
 - **Pedro Henrique Ramos de Carvalho**
 
 ---
